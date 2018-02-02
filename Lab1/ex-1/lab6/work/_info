@@ -1,0 +1,123 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/courses/desdigsys2/2018s/dds218s02/ex-1/lab6
+T_opt
+!s110 1517137060
+V>1IIfkc^0_Z38nbDcAF2`3
+04 17 4 work test_pci_protocol fast 0
+=1-90b11c1d54d8-5a6daca4-36055-3741
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.5c;63
+vpci_master
+Z2 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z3 !s110 1517137058
+!i10b 1
+!s100 I`^6f_I]GnThaGAd0W22i3
+IJbXiEiCNkPY8[CDgYCEMn2
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+!s105 pci_master_v_unit
+S1
+R0
+Z5 w1516629177
+8pci_master.v
+Fpci_master.v
+L0 9
+Z6 OL;L;10.5c;63
+r1
+!s85 0
+31
+Z7 !s108 1517137058.000000
+Z8 !s107 test_pci_protocol.sv|pci_protocol_property.sv|pci_target.v|pci_master.v|
+Z9 !s90 -sv|pci_master.v|pci_target.v|pci_protocol_property.sv|test_pci_protocol.sv|+acc|+cover|+define+check5|
+!i113 0
+Z10 !s102 +cover
+Z11 o-sv +acc +cover -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z12 !s92 -sv +acc +cover +define+check5 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vpci_protocol_property
+R2
+R3
+!i10b 1
+!s100 R:gC`jA65jWRXc1I_eQBS1
+IZW<ULKHV7<FIM80a7:8932
+R4
+!s105 pci_protocol_property_sv_unit
+S1
+R0
+w1517137054
+8pci_protocol_property.sv
+Fpci_protocol_property.sv
+L0 4
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+R12
+R1
+vpci_target
+R2
+R3
+!i10b 1
+!s100 T5F^P>??RkO0Rm[om9g_21
+Iz:gK1kR]Fn^Y8NELY5[h[0
+R4
+!s105 pci_target_v_unit
+S1
+R0
+R5
+8pci_target.v
+Fpci_target.v
+L0 9
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+R12
+R1
+vtest_pci_protocol
+R2
+R3
+!i10b 1
+!s100 U<OlLXO:;`:@Am9PbKLEj3
+IMN>Gj_ELIK65MUgBjPRRm1
+R4
+!s105 test_pci_protocol_sv_unit
+S1
+R0
+R5
+8test_pci_protocol.sv
+Ftest_pci_protocol.sv
+L0 4
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+R12
+R1
